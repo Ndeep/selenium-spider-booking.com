@@ -1,0 +1,187 @@
+[{'Holiday Inn New Delhi Airport, India - Booking.com': {'url': 'https://www.booking.com/hotel/in/holiday-inn-new-delhi-international-airport.html', 'aggregate
+Rating': {'ratingValue': 8.7, 'reviewCount': 3501, '@type': 'AggregateRating', 'bestRating': 10}, 'name': 'Holiday Inn New Delhi International Airport', '@type
+': 'Hotel', 'priceRange': 'Prices for upcoming dates start at $87 per night (We Price Match)', 'description': 'Offering an outdoor swimming pool, a fitness cen
+ter and a spa and wellness center, Holiday Inn New Delhi International Airport is located in New Delhi.', 'address': {'addressCountry': 'India', 'postalCode':
+'110037', 'addressRegion': 'Delhi NCR', '@type': 'PostalAddress', 'streetAddress': 'Asset Area 12, Hospitality District, Aerocity, Delhi International Airport,
+ 110037 New Delhi, India', 'addressLocality': 'Asset Area 12, Hospitality District, Aerocity, Delhi International Airport'}, 'image': 'https://r-cf.bstatic.com
+/images/hotel/max500/234/234890162.jpg', '@context': 'http://schema.org', 'hasMap': 'https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=colo
+r:blue%7c28.5502374,77.1232054&zoom=15&center=28.5502374,77.1232054&sensor=false&client=gme-booking&channel=booking-frontend&signature=rE7U3gYj0yQG0x5eC2QnYvYF
+QWk='}}, {'Hotel The Green Height, New Delhi, India - Booking.com': {'hasMap': 'https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1
+200&center=28.5562229,77.1014732&markers=color:blue%7c28.5562229,77.1014732&client=gme-booking&channel=booking-frontend&signature=5eOyWvqFlXE6rXY5zZE-aUVIBIs='
+, '@type': 'Hotel', 'description': 'Hotel Galaxy Rooms offers rooms in New Delhi. This 3-star hotel offers free WiFi. Free private parking is available on site
+.', 'priceRange': 'Prices for upcoming dates start at $10 per night (We Price Match)', 'image': 'https://r-cf.bstatic.com/images/hotel/max500/232/232924730.jpg
+', 'address': {'streetAddress': '836,K Block,Near Mata Chowk,Mahipalpur Extn, 110037 New Delhi, India', 'addressLocality': '836,K Block,Near Mata Chowk,Mahipal
+pur Extn', 'addressCountry': 'India', 'addressRegion': 'Delhi NCR', '@type': 'PostalAddress', 'postalCode': '110037'}, 'url': 'https://www.booking.com/hotel/in
+/galaxy-rooms.html', 'aggregateRating': {'reviewCount': 9, 'ratingValue': 8.7, 'bestRating': 10, '@type': 'AggregateRating'}, '@context': 'http://schema.org',
+'name': 'Hotel The Green Height'}}, {'Airway Hotel, New Delhi, India - Booking.com': {'image': 'https://r-cf.bstatic.com/images/hotel/max500/232/232295542.jpg'
+, 'aggregateRating': {'reviewCount': 34, '@type': 'AggregateRating', 'bestRating': 10, 'ratingValue': 9.2}, '@type': 'Hotel', 'priceRange': 'Prices for upcomin
+g dates start at $12 per night (We Price Match)', 'description': 'Located in New Delhi, 8 miles from Qutub Minar, Airway Hotel provides accommodations with a r
+estaurant, free private parking, a shared lounge and a...', 'name': 'Airway Hotel', 'hasMap': 'https://maps.googleapis.com/maps/api/staticmap?markers=color:blu
+e%7c28.5561620,77.0999580&center=28.5561620,77.0999580&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=ZK4S9TSYqLH0kr
+l7vkCs6_Teizg=', 'url': 'https://www.booking.com/hotel/in/platinum-delhi-airport-delhi-international-airport.html', '@context': 'http://schema.org', 'address':
+ {'addressLocality': 'Plot No 187,Road no 4,Mahipalpur Extn Near Delhi International Airport', 'streetAddress': 'Plot No 187,Road no 4,Mahipalpur Extn Near Del
+hi International Airport, 110037 New Delhi, India', 'addressRegion': 'Delhi NCR', '@type': 'PostalAddress', 'addressCountry': 'India', 'postalCode': '110037'}}
+}, {'Hotel The Prime Balaji Deluxe, New Delhi, India - Booking.com': {'@context': 'http://schema.org', 'url': 'https://www.booking.com/hotel/in/the-prime-balaj
+i-deluxe-new-delhi-railway-station.html', 'description': 'Located just 328 feet from the New Delhi Railway Station, The Prime Balaji Deluxe @ New Delhi Railway
+ Station operates a 24-hour front desk to assist...', 'image': 'https://r-cf.bstatic.com/images/hotel/max500/384/38416670.jpg', 'aggregateRating': {'reviewCoun
+t': 3612, 'ratingValue': 8.0, 'bestRating': 10, '@type': 'AggregateRating'}, 'name': 'The Prime Balaji Deluxe @ New Delhi Railway Station', 'priceRange': 'Pric
+es for upcoming dates start at $39 per night (We Price Match)', '@type': 'Hotel', 'address': {'addressLocality': '8574, Arakashan Road, Behind Shiela Cinema, P
+aharganj', 'streetAddress': '8574, Arakashan Road, Behind Shiela Cinema, Paharganj, Paharganj, 110055 New Delhi, India', '@type': 'PostalAddress', 'addressRegi
+on': 'Delhi NCR', 'addressCountry': 'India', 'postalCode': '110055'}, 'hasMap': 'https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&zoo
+m=15&markers=color:blue%7c28.6452603,77.2174773&center=28.6452603,77.2174773&client=gme-booking&channel=booking-frontend&signature=GSY_6AyP9KE0j1sMXliy5lE_MGs=
+'}}, {'Hotel Premium, New Delhi, India - Booking.com': {'priceRange': 'Prices for upcoming dates start at $11 per night (We Price Match)', 'url': 'https://www.
+booking.com/hotel/in/marina-by-prime-group-ofhotels.html', 'description': 'Located in New Delhi, within 8 miles of Qutub Minar and 9 miles of Rashtrapati Bhava
+n, Hotel Premium provides accommodations with a shared lounge and free...', 'aggregateRating': {'ratingValue': 7.1, 'reviewCount': 124, 'bestRating': 10, '@typ
+e': 'AggregateRating'}, 'image': 'https://r-cf.bstatic.com/images/hotel/max500/226/226021159.jpg', '@context': 'http://schema.org', 'address': {'addressCountry
+': 'India', 'addressRegion': 'Delhi NCR', 'streetAddress': 'plot no 156 road no 2 Gali no 7 mahipalpur mahipalpur, 110037 New Delhi, India', 'addressLocality':
+ 'plot no 156 road no 2 Gali no 7 mahipalpur mahipalpur', '@type': 'PostalAddress', 'postalCode': '110037'}, '@type': 'Hotel', 'name': 'Hotel Premium', 'hasMap
+': 'https://maps.googleapis.com/maps/api/staticmap?center=28.5561393,77.0999424&zoom=15&markers=color:blue%7c28.5561393,77.0999424&size=1600x1200&sensor=false&
+client=gme-booking&channel=booking-frontend&signature=qJ19PqWXhtfvtILQwecifb7uEyo='}}, {'Hotel Sky, New Delhi, India - Booking.com': {'description': 'Located i
+n New Delhi, 8 miles from Qutub Minar, Hotel Sky provides accommodations with a restaurant, free private parking, a shared lounge and a terrace.', 'image': 'ht
+tps://r-cf.bstatic.com/images/hotel/max500/232/232535147.jpg', 'priceRange': 'Prices for upcoming dates start at $13 per night (We Price Match)', 'address': {'
+addressRegion': 'Delhi NCR', '@type': 'PostalAddress', 'addressCountry': 'India', 'addressLocality': 'Mahipalpur Vasant Kunj Road,Near Aggarwal Sweet Near IGI
+Airport ,Mahipalpur Extn', 'postalCode': '110037', 'streetAddress': 'Mahipalpur Vasant Kunj Road,Near Aggarwal Sweet Near IGI Airport ,Mahipalpur Extn, 110037
+New Delhi, India'}, '@context': 'http://schema.org', '@type': 'Hotel', 'aggregateRating': {'bestRating': 10, '@type': 'AggregateRating', 'ratingValue': 7.9, 'r
+eviewCount': 116}, 'url': 'https://www.booking.com/hotel/in/sky-new-delhi.html', 'hasMap': 'https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x12
+00&sensor=false&markers=color:blue%7c28.5559426,77.1011375&center=28.5559426,77.1011375&client=gme-booking&channel=booking-frontend&signature=TeWy_SMPH_n4y3i9j
+s4YIArSVPg=', 'name': 'Hotel Sky'}}, {'Hotel The Westend Green, New Delhi, India - Booking.com': {'image': 'https://r-cf.bstatic.com/images/hotel/max500/232/23
+2923246.jpg', 'priceRange': 'Prices for upcoming dates start at $9 per night (We Price Match)', 'description': 'Located in New Delhi and with Qutub Minar reach
+able within 9 miles, Hotel The Westend Green provides express check-in and check-out, rooms, a shared...', 'url': 'https://www.booking.com/hotel/in/yuvee-grand
+.html', 'aggregateRating': {'ratingValue': 7.6, '@type': 'AggregateRating', 'bestRating': 10, 'reviewCount': 10}, 'address': {'@type': 'PostalAddress', 'addres
+sLocality': 'Westend Green, Rangpuri, Mahipalpur', 'postalCode': '110037', 'addressCountry': 'India', 'addressRegion': 'Delhi NCR', 'streetAddress': 'Westend G
+reen, Rangpuri, Mahipalpur , 110037 New Delhi, India'}, '@type': 'Hotel', 'name': 'Hotel The Westend Green', 'hasMap': 'https://maps.googleapis.com/maps/api/st
+aticmap?sensor=false&size=1600x1200&zoom=15&markers=color:blue%7c28.5564603,77.0925785&center=28.5564603,77.0925785&client=gme-booking&channel=booking-frontend
+&signature=wcF1XtD8aKoUX_ypkbPvr4HkqtA=', '@context': 'http://schema.org'}}, {'Hotel Aero Palace, New Delhi, India - Booking.com': {'address': {'streetAddress'
+: 'Road No 4 NH-8,Near Delhi IGI Airport, 110037 New Delhi, India', 'addressLocality': 'Road No 4 NH-8,Near Delhi IGI Airport', 'postalCode': '110037', '@type'
+: 'PostalAddress', 'addressRegion': 'Delhi NCR', 'addressCountry': 'India'}, 'name': 'Hotel Aero Palace', 'aggregateRating': {'@type': 'AggregateRating', 'best
+Rating': 10, 'reviewCount': 42, 'ratingValue': 9.4}, 'hasMap': 'https://maps.googleapis.com/maps/api/staticmap?center=28.5570433,77.0868259&zoom=15&size=1600x1
+200&markers=color:blue%7c28.5570433,77.0868259&sensor=false&client=gme-booking&channel=booking-frontend&signature=nGmOBdvCSj-VAlslYTJSBNq7LbU=', 'url': 'https:
+//www.booking.com/hotel/in/aero-palace.html', '@context': 'http://schema.org', 'priceRange': 'Prices for upcoming dates start at $13 per night (We Price Match)
+', 'description': 'Attractively located in the South West district of New Delhi, Hotel Aero Palace is located 9 miles from Qutub Minar, 10 miles from Gandhi Sm
+riti and 11...', 'image': 'https://r-cf.bstatic.com/images/hotel/max500/235/235844787.jpg', '@type': 'Hotel'}}, {'FabHotel Cabana, New Delhi, India - Booking.c
+om': {'@type': 'Hotel', 'description': 'Located in posh Greater Kailash quarters, FabHotel Cabana is only a 2-minute drive from Nehru Place.', '@context': 'htt
+p://schema.org', 'address': {'postalCode': '110048', 'addressCountry': 'India', 'addressRegion': 'Delhi NCR', 'streetAddress': 'R23 Greater Kailash 1, Greater
+Kailash 1, 110048 New Delhi, India', '@type': 'PostalAddress', 'addressLocality': 'R23 Greater Kailash 1'}, 'name': 'FabHotel Cabana', 'hasMap': 'https://maps.
+googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c28.5479440,77.2387760&zoom=15&center=28.5479440,77.2387760&client=gme-bookin
+g&channel=booking-frontend&signature=r3zDNkEcMpcGuTm_AxTFTtsAnD8=', 'priceRange': 'Prices for upcoming dates start at $28 per night (We Price Match)', 'image':
+ 'https://r-cf.bstatic.com/images/hotel/max500/147/147757588.jpg', 'url': 'https://www.booking.com/hotel/in/cabana.html', 'aggregateRating': {'bestRating': 10,
+ 'ratingValue': 7.5, '@type': 'AggregateRating', 'reviewCount': 211}}}, {'Hotel Edission View, New Delhi, India - Booking.com': {'@context': 'http://schema.org
+', 'image': 'https://r-cf.bstatic.com/images/hotel/max500/232/232922489.jpg', 'aggregateRating': {'reviewCount': 96, 'bestRating': 10, 'ratingValue': 7.4, '@ty
+pe': 'AggregateRating'}, 'hasMap': 'https://maps.googleapis.com/maps/api/staticmap?center=28.5559506,77.1011254&zoom=15&size=1600x1200&markers=color:blue%7c28.
+5559506,77.1011254&sensor=false&client=gme-booking&channel=booking-frontend&signature=i2GiJub2nxTXhfQozkMjdf144Ws=', '@type': 'Hotel', 'name': 'Hotel Edission
+View', 'priceRange': 'Prices for upcoming dates start at $11 per night (We Price Match)', 'url': 'https://www.booking.com/hotel/in/sky-height.html', 'address':
+ {'addressCountry': 'India', 'addressRegion': 'Delhi NCR', 'postalCode': '110076', 'streetAddress': 'Vasant Kunj Marg, 6078/3, Mahipalpur Extension, 110076 New
+ Delhi, India', '@type': 'PostalAddress', 'addressLocality': 'Vasant Kunj Marg, 6078/3, Mahipalpur Extension'}, 'description': 'Located in New Delhi, 8 miles f
+rom Qutub Minar, Hotel Edission View provides accommodations with a restaurant, free private parking, a shared lounge and a...'}}, {'Bunkin Hostel, New Delhi,
+India - Booking.com': {'@type': 'Hotel', 'priceRange': 'Prices for upcoming dates start at $4 per night (We Price Match)', 'image': 'https://r-cf.bstatic.com/i
+mages/hotel/max500/225/225696100.jpg', 'aggregateRating': {'@type': 'AggregateRating', 'reviewCount': 655, 'ratingValue': 7.4, 'bestRating': 10}, '@context': '
+http://schema.org', 'address': {'streetAddress': 'C 59/B, Kalkaji near Nehru Enclave Metro Station, 110019 New Delhi, India', 'addressRegion': 'Delhi NCR', '@t
+ype': 'PostalAddress', 'addressLocality': 'C 59/B, Kalkaji near Nehru Enclave Metro Station', 'postalCode': '110019', 'addressCountry': 'India'}, 'hasMap': 'ht
+tps://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c28.5455150,77.2537580&sensor=false&size=1600x1200&center=28.5455150,77.2537580&client
+=gme-booking&channel=booking-frontend&signature=HCcp4RDJB0zrrf_mYxfrw8mH7Mg=', 'url': 'https://www.booking.com/hotel/in/bunkin.html', 'description': 'Bunkin Ho
+stel in New Delhi provides adults only accommodations with a bar, a shared lounge and a terrace.', 'name': 'Bunkin Hostel'}}, {'Treebo Trend Nights Inn, New De
+lhi, India - Booking.com': {'@type': 'Hotel', 'description': 'Well situated in the Rohini district of New Delhi, Treebo Trend Nights Inn is located 11 miles fr
+om Red Fort, 11 miles from Gurudwara Sis Ganj Sahib and 11...', '@context': 'http://schema.org', 'address': {'addressLocality': 'Plot No-3, Pocket-8B, Jail Roa
+d, Sector 19', 'streetAddress': 'Plot No-3, Pocket-8B, Jail Road, Sector 19,, Rohini, 110085 New Delhi, India', '@type': 'PostalAddress', 'addressRegion': 'Del
+hi NCR', 'addressCountry': 'India', 'postalCode': '110085'}, 'name': 'Treebo Trend Nights Inn', 'hasMap': 'https://maps.googleapis.com/maps/api/staticmap?zoom=
+15&center=28.7335898,77.1394689&sensor=false&size=1600x1200&markers=color:blue%7c28.7335898,77.1394689&client=gme-booking&channel=booking-frontend&signature=E1
+1GbCk8o4gFfz-ZgysSBZ3PZVg=', 'priceRange': 'Prices for upcoming dates start at $16 per night (We Price Match)', 'image': 'https://r-cf.bstatic.com/images/hotel
+/max500/216/216493630.jpg', 'url': 'https://www.booking.com/hotel/in/oyo-18607-nights-inn-delhi.html', 'aggregateRating': {'bestRating': 10, 'ratingValue': 8.4
+, '@type': 'AggregateRating', 'reviewCount': 14}}}, {'OYO 28266 Travel Inn, New Delhi, India - Booking.com': {'address': {'@type': 'PostalAddress', 'streetAddr
+ess': 'A-138, A-138,Main Road Ghazipur, 110096 New Delhi, India', 'postalCode': '110096', 'addressRegion': 'Delhi NCR', 'addressLocality': 'A-138, A-138,Main R
+oad Ghazipur', 'addressCountry': 'India'}, 'url': 'https://www.booking.com/hotel/in/oyo-28266-travel-inn.html', 'hasMap': 'https://maps.googleapis.com/maps/api
+/staticmap?markers=color:blue%7c28.6346622,77.3154071&sensor=false&zoom=15&center=28.6346622,77.3154071&size=1600x1200&client=gme-booking&channel=booking-front
+end&signature=WZZfFevKJTK1g8S0tGHUJyCKOpU=', 'name': 'OYO 28266 Travel Inn', 'aggregateRating': {'bestRating': 10, 'ratingValue': 4.9, 'reviewCount': 5, '@type
+': 'AggregateRating'}, '@context': 'http://schema.org', 'image': 'https://r-cf.bstatic.com/images/hotel/max500/182/182527489.jpg', '@type': 'Hotel', 'priceRang
+e': 'Prices for upcoming dates start at $10 per night (We Price Match)', 'description': 'Well set in the East Delhi district of New Delhi, OYO 28266 Travel Inn
+ is located 5 miles from Swaminarayan Akshardham, 6 miles from Raj Ghat and 6 miles...'}}, {'Hotel Tourist Palace, New Delhi, India - Booking.com': {'@type': '
+Hotel', 'name': 'Hotel Tourist Palace', 'image': 'https://r-cf.bstatic.com/images/hotel/max500/110/110021420.jpg', 'priceRange': 'Prices for upcoming dates sta
+rt at $11 per night (We Price Match)', 'description': 'Located in New Delhi, 6 miles from Qutub Minar, Hotel Tourist Palace has air-conditioned rooms with free
+ WiFi and a tour desk.', 'hasMap': 'https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&zoom=15&markers=color:blue%7c28.5476355,77.12664
+95&center=28.5476355,77.1266495&client=gme-booking&channel=booking-frontend&signature=8Ju0ZALCvt2q2v3GP1h5fLVHOgE=', 'address': {'@type': 'PostalAddress', 'str
+eetAddress': 'A-385, Road Number 2 , Mahipalpur, 110037 New Delhi, India', 'addressLocality': 'A-385, Road Number 2', 'addressRegion': 'Delhi NCR', 'postalCode
+': '110037', 'addressCountry': 'India'}, 'url': 'https://www.booking.com/hotel/in/tourist-palace-palam.html', 'aggregateRating': {'reviewCount': 72, 'bestRatin
+g': 10, '@type': 'AggregateRating', 'ratingValue': 6.9}, '@context': 'http://schema.org'}}, {'Guesthouse Treebo Natraj Yes Please, New Delhi, India - Booking.c
+om': {'address': {'addressCountry': 'India', 'streetAddress': '1750, Chuna Mandi, Opposite Imperial Cinema, Pahar Ganj, Delhi 110055, Paharganj, 110055 New Del
+hi, India', 'postalCode': '110055', '@type': 'PostalAddress', 'addressLocality': '1750, Chuna Mandi, Opposite Imperial Cinema, Pahar Ganj, Delhi 110055', 'addr
+essRegion': 'Delhi NCR'}, 'description': 'Located 66 feet from the R K Ashram Metro Station, 1148 feet from New Delhi Railway Station and 0.', 'hasMap': 'https
+://maps.googleapis.com/maps/api/staticmap?sensor=false&center=28.6407767,77.2094116&markers=color:blue%7c28.6407767,77.2094116&zoom=15&size=1600x1200&client=gm
+e-booking&channel=booking-frontend&signature=dEAcCXfoG4WfYG_F5g6rDa0HJzk=', 'priceRange': 'Prices for upcoming dates start at $17 per night (We Price Match)',
+'image': 'https://r-cf.bstatic.com/images/hotel/max500/147/147589314.jpg', 'aggregateRating': {'reviewCount': 1235, 'ratingValue': 8.0, '@type': 'AggregateRati
+ng', 'bestRating': 10}, '@type': 'Hotel', 'url': 'https://www.booking.com/hotel/in/natraj-yes-please.html', 'name': 'Treebo Trend Natraj Yes Please', '@context
+': 'http://schema.org'}}, {'Hotel Heritage, New Delhi, India - Booking.com': {'hasMap': 'https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x
+1200&zoom=15&markers=color:blue%7c28.6406566,77.2106046&center=28.6406566,77.2106046&client=gme-booking&channel=booking-frontend&signature=uJrJEHALkrYq_1U7kGa-
+JIPzna0=', 'image': 'https://r-cf.bstatic.com/images/hotel/max500/215/215918626.jpg', 'url': 'https://www.booking.com/hotel/in/heritage-home.html', 'priceRange
+': 'Prices for upcoming dates start at $18 per night (We Price Match)', 'name': 'Hotel Heritage', 'aggregateRating': {'@type': 'AggregateRating', 'ratingValue'
+: 7.4, 'reviewCount': 71, 'bestRating': 10}, '@type': 'Hotel', '@context': 'http://schema.org', 'description': 'Offering a restaurant that serves a selection o
+f Indian and Continental delights, Heritage Home is located 0.6 mi from New Delhi Railway Station and 1.', 'address': {'streetAddress': '1603/4 Main Bazaar Pah
+arganj, Paharganj, 110055 New Delhi, India', 'addressRegion': 'Delhi NCR', '@type': 'PostalAddress', 'addressCountry': 'India', 'addressLocality': '1603/4 Main
+ Bazaar Paharganj', 'postalCode': '110055'}}}, {'FabHotel Aries Delhi Airport, New Delhi, India - Booking.com': {'hasMap': 'https://maps.googleapis.com/maps/ap
+i/staticmap?markers=color:blue%7c28.5494470,77.1298350&size=1600x1200&sensor=false&zoom=15&center=28.5494470,77.1298350&client=gme-booking&channel=booking-fron
+tend&signature=A_OsZSl-UYJxnl7_eCeRBOTN9JA=', '@type': 'Hotel', 'name': 'FabHotel Aries Delhi Airport', 'description': 'Located in New Delhi, within 7 miles of
+ Qutub Minar and 8 miles of Gandhi Smriti, FabHotel Aries Delhi Airport has accommodations with a terrace as well as...', 'aggregateRating': {'reviewCount': 39
+1, '@type': 'AggregateRating', 'bestRating': 10, 'ratingValue': 8.0}, 'image': 'https://r-cf.bstatic.com/images/hotel/max500/151/151711940.jpg', 'address': {'s
+treetAddress': 'A-137, Road No. 4, Mahipalpur, Near Indira Gandhi International Airport, Delhi - 110037 Near Indira Gandhi International Airport, Delhi - 11003
+7, Mahipalpur, 110037 New Delhi, India', 'addressCountry': 'India', 'postalCode': '110037', 'addressRegion': 'Delhi NCR', 'addressLocality': 'A-137, Road No. 4
+, Mahipalpur, Near Indira Gandhi International Airport, Delhi - 110037 Near Indira Gandhi International Airport, Delhi - 110037', '@type': 'PostalAddress'}, 'u
+rl': 'https://www.booking.com/hotel/in/fabhotel-aries-delhi-airport.html', '@context': 'http://schema.org', 'priceRange': 'Prices for upcoming dates start at $
+24 per night (We Price Match)'}}, {'Hotel Euro Delhi Airport, New Delhi, India - Booking.com': {'@context': 'http://schema.org', 'description': 'Ideally set in
+ the Mahipalpur district of New Delhi, Hotel Euro Delhi Airport is located 6 miles from Qutub Minar, 8 miles from Rashtrapati Bhavan and 8...', 'url': 'https:/
+/www.booking.com/hotel/in/euro-delhi-airport.html', 'image': 'https://r-cf.bstatic.com/images/hotel/max500/235/235096595.jpg', '@type': 'Hotel', 'priceRange':
+'Prices for upcoming dates start at $9 per night (We Price Match)', 'name': 'Hotel Euro Delhi Airport', 'address': {'addressRegion': 'Delhi NCR', 'addressLocal
+ity': 'Hotel Euro Delhi Airport, IGI Airport, T3 Road 59K Mahipalpur Vasant Road Near WTI', '@type': 'PostalAddress', 'addressCountry': 'India', 'postalCode':
+'110037', 'streetAddress': 'Hotel Euro Delhi Airport, IGI Airport, T3 Road 59K Mahipalpur Vasant Road Near WTI, Mahipalpur, 110037 New Delhi, India'}, 'hasMap'
+: 'https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=28.5432157,77.1286036&size=1600x1200&sensor=false&markers=color:blue%7c28.5432157,77.1286036&c
+lient=gme-booking&channel=booking-frontend&signature=FtR20T9WmfrhO1ljh5KSJxQwqQY='}}, {'Holiday Inn Express New Delhi Inter, India - Booking.com': {'priceRange
+': 'Prices for upcoming dates start at $75 per night (We Price Match)', 'url': 'https://www.booking.com/hotel/in/eaton-smart-new-delhi-airport.html', 'hasMap':
+ 'https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=28.5572016,77.0988961&zoom=15&markers=color:blue%7c28.5572016,77.0988961&size=1600x1200&cl
+ient=gme-booking&channel=booking-frontend&signature=EccHbEsICItICw_snGzt98yY8-U=', 'description': 'Located 6 miles from Qutub Minar, Holiday Inn Express New De
+lhi International Airport T3 has rooms with air conditioning in New Delhi.', 'image': 'https://r-cf.bstatic.com/images/hotel/max500/224/224876727.jpg', '@conte
+xt': 'http://schema.org', 'name': 'Holiday Inn Express New Delhi International Airport T3', 'address': {'streetAddress': 'Level 5, Terminal 3, IGI Airport, 110
+037 New Delhi, India', 'addressRegion': 'Delhi NCR', '@type': 'PostalAddress', 'addressCountry': 'India', 'addressLocality': 'Level 5, Terminal 3, IGI Airport'
+, 'postalCode': '110037'}, '@type': 'Hotel', 'aggregateRating': {'ratingValue': 6.8, '@type': 'AggregateRating', 'bestRating': 10, 'reviewCount': 933}}}, {'Hot
+el The Vegas Delhi Airport, New Delhi, India - Booking.com': {'image': 'https://r-cf.bstatic.com/images/hotel/max500/217/217329552.jpg', 'address': {'addressRe
+gion': 'Delhi NCR', '@type': 'PostalAddress', 'addressCountry': 'India', 'postalCode': '110037', 'addressLocality': 'A-250, Street Number 6, Near NH-8, Block R
+Z, Mahipalpur Village', 'streetAddress': 'A-250, Street Number 6, Near NH-8, Block RZ, Mahipalpur Village, Mahipalpur, 110037 New Delhi, India'}, 'hasMap': 'ht
+tps://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&center=28.5511172,77.1312151&sensor=false&markers=color:blue%7c28.5511172,77.1312151&client
+=gme-booking&channel=booking-frontend&signature=M6rA2W6O6uhpfFGc-tBwldz6VIY=', '@context': 'http://schema.org', 'priceRange': 'Prices for upcoming dates start
+at $12 per night (We Price Match)', 'aggregateRating': {'bestRating': 10, '@type': 'AggregateRating', 'reviewCount': 340, 'ratingValue': 6.7}, 'name': 'Hotel T
+he Vegas Delhi Airport', 'description': 'Located in New Delhi, 7 miles from Qutub Minar, Hotel The Vegas Delhi Airport provides accommodations with a restauran
+t, free private parking and a shared...', '@type': 'Hotel', 'url': 'https://www.booking.com/hotel/in/the-vegas.html'}}, {'Hostel Madpackers Delhi, New Delhi, I
+ndia - Booking.com': {'description': 'Madpackers Delhi is located in New Delhi and provides a 24-hour front desk for the convenience of the guests.', 'aggregat
+eRating': {'bestRating': 10, 'ratingValue': 8.7, 'reviewCount': 708, '@type': 'AggregateRating'}, 'address': {'addressCountry': 'India', '@type': 'PostalAddres
+s', 'postalCode': '110017', 'streetAddress': 'S-39A, Third Floor, Panchsheel Park, 110017 New Delhi, India', 'addressLocality': 'S-39A, Third Floor, Panchsheel
+ Park', 'addressRegion': 'Delhi NCR'}, 'image': 'https://r-cf.bstatic.com/images/hotel/max500/200/200099659.jpg', 'url': 'https://www.booking.com/hotel/in/the-
+madpackers-hostel.html', 'name': 'Madpackers Delhi', 'priceRange': 'Prices for upcoming dates start at $7 per night (We Price Match)', 'hasMap': 'https://maps.
+googleapis.com/maps/api/staticmap?markers=color:blue%7c28.5428494,77.2140706&sensor=false&center=28.5428494,77.2140706&size=1600x1200&zoom=15&client=gme-bookin
+g&channel=booking-frontend&signature=Xgo8bpwsPBZEQy8OP8_vigSO6IA=', '@context': 'http://schema.org', '@type': 'Hotel'}}, {'Hotel Airport Vishal Residency, New
+Delhi, India - Booking.com': {'@type': 'Hotel', 'name': 'Airport Hotel Vishal Residency', '@context': 'http://schema.org', 'aggregateRating': {'ratingValue': 7
+.2, 'bestRating': 10, 'reviewCount': 286, '@type': 'AggregateRating'}, 'description': 'Conveniently on the National Highway 8 (NH8) from New Delhi to Gurgaon,
+Hotel Vishal Residency is a 3-star property with a fitness center. It is only 1.', 'address': {'addressRegion': 'Delhi NCR', 'addressCountry': 'India', 'postal
+Code': '110037', '@type': 'PostalAddress', 'addressLocality': 'N.H.8, Rangpuri, Near Radisson Hotel, Mahipalpur', 'streetAddress': 'N.H.8, Rangpuri, Near Radis
+son Hotel, Mahipalpur, Mahipalpur, 110037 New Delhi, India'}, 'url': 'https://www.booking.com/hotel/in/vishal-residency-new-delhi1.html', 'priceRange': 'Prices
+ for upcoming dates start at $26 per night (We Price Match)', 'image': 'https://r-cf.bstatic.com/images/hotel/max500/657/65782549.jpg', 'hasMap': 'https://maps
+.googleapis.com/maps/api/staticmap?markers=color:blue%7c28.5425399,77.1185061&size=1600x1200&sensor=false&center=28.5425399,77.1185061&zoom=15&client=gme-booki
+ng&channel=booking-frontend&signature=KQJ5SzoYarkxXWcBlKfKVoS95BU='}}, {'Airport Hotel Smart Signature, New Delhi, India - Booking.com': {'priceRange': 'Prices
+ for upcoming dates start at $13 per night (We Price Match)', 'address': {'addressLocality': 'A-191, Road No-4,Street No-10 Near IGI Airport,Mahipalpur', 'addr
+essCountry': 'India', 'streetAddress': 'A-191, Road No-4,Street No-10 Near IGI Airport,Mahipalpur, 110037 New Delhi, India', '@type': 'PostalAddress', 'postalC
+ode': '110037', 'addressRegion': 'Delhi NCR'}, 'description': 'Located in New Delhi, 8 miles from Qutub Minar, Airport Hotel Smart Signature has accommodations
+ with free WiFi and free private parking.', 'image': 'https://r-cf.bstatic.com/images/hotel/max500/233/233573843.jpg', 'hasMap': 'https://maps.googleapis.com/m
+aps/api/staticmap?size=1600x1200&zoom=15&markers=color:blue%7c28.5559423,77.1011707&sensor=false&center=28.5559423,77.1011707&client=gme-booking&channel=bookin
+g-frontend&signature=_Wf2paEUdlY9tqVxb73H-tpQuqo=', 'name': 'Airport Hotel Smart Signature', 'url': 'https://www.booking.com/hotel/in/smart-signature-delhi-air
+port.html', '@type': 'Hotel', '@context': 'http://schema.org', 'aggregateRating': {'@type': 'AggregateRating', 'bestRating': 10, 'reviewCount': 80, 'ratingValu
+e': 7.4}}}, {'Hotel Aura @airport, New Delhi, India - Booking.com': {'address': {'addressRegion': 'Delhi NCR', 'addressLocality': 'RZ-293, A Block, Mahipalpur'
+, '@type': 'PostalAddress', 'addressCountry': 'India', 'postalCode': '110037', 'streetAddress': 'RZ-293, A Block, Mahipalpur, Mahipalpur, 110037 New Delhi, Ind
+ia'}, 'description': 'Located at just a 5-minute drive from the Indira Gandhi International Airport, Aerocity Hotel Aura operates a 24-hour front desk to welco
+me guests at all...', 'priceRange': 'Prices for upcoming dates start at $23 per night (We Price Match)', 'url': 'https://www.booking.com/hotel/in/aura-airport.
+html', '@type': 'Hotel', '@context': 'http://schema.org', 'hasMap': 'https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c28.5507796,77.1299647&
+size=1600x1200&center=28.5507796,77.1299647&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=KcacQu9BIcCkVwkxeQhYz5ygzDY=', 'image':
+'https://r-cf.bstatic.com/images/hotel/max500/176/176736955.jpg', 'name': 'Hotel Aura @airport', 'aggregateRating': {'ratingValue': 7.4, 'bestRating': 10, '@ty
+pe': 'AggregateRating', 'reviewCount': 67}}}, {'Hotel ibis New Delhi Aerocity, India - Booking.com': {'aggregateRating': {'reviewCount': 3718, 'bestRating': 10
+, 'ratingValue': 7.8, '@type': 'AggregateRating'}, 'url': 'https://www.booking.com/hotel/in/ibis-delhi-airport.html', 'name': 'ibis New Delhi Aerocity - An Acc
+orHotels Brand', 'address': {'streetAddress': 'IGI Airport , 110037 New Delhi, India', 'addressLocality': 'IGI Airport', 'postalCode': '110037', 'addressRegion
+': 'Delhi NCR', 'addressCountry': 'India', '@type': 'PostalAddress'}, '@type': 'Hotel', 'priceRange': 'Prices for upcoming dates start at $69 per night (We Pri
+ce Match)', 'image': 'https://r-cf.bstatic.com/images/hotel/max500/975/97531939.jpg', 'description': 'ibis New Delhi Aerocity offers modern rooms at just a 10-
+minute drive from Delhi International Airport.', 'hasMap': 'https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c28.5511185,77.12
+34816&center=28.5511185,77.1234816&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=WqhD2eW6a5ScqDu8D4zUDt0mDUk=', '@context': 'http:
+//schema.org'}}]
