@@ -1,43 +1,51 @@
 import requests
+from requests.adapters import HTTPAdapter
+from requests.packages.urllib3.util.retry import Retry
 from bs4 import BeautifulSoup
+import pandas as pd
 import re
-
-def get_page(url):
+import json
+def get_page(url,i,link_list=[]):
     page = requests.get(url)
-    with open('content.txt','w') as file:
-        file.write(str(page.content))
     soup = BeautifulSoup(page.content, 'html.parser')
-    # ultag = soup.find('ul', {'class': 'bui-pagination__list'})
-    # print(ultag)
-    # page_list=[]
-    # lis = ultag.find_all('li')
-    # for li in lis:
-    #     link = li.find('a')
-    #     if link is not None and 'searchresults' in link['href']:
-    #         detail_link = link['href']
-    #         page_list.append(detail_link)
-    # print(len(page_list))
-    #main_div=soup.find("a", {"class": " sr_item_photo_link sr_hotel_preview_track "})
     for div in soup.find_all("a", {"class": "sr_item_photo_link sr_hotel_preview_track"}):
-        print(div['href'])
+        #r = requests.get("https://www.booking.com/" + div['href'])
+        session = requests.Session()
+        retry = Retry(connect=3, backoff_factor=0.5)
+        adapter = HTTPAdapter(max_retries=retry)
+        session.mount('http://', adapter)
+        session.mount('https://', adapter)
+        r=session.get("https://www.booking.com/" + div['href'])
+        soup = BeautifulSoup(r.text, 'html.parser')
+        s = soup.find('script', type='application/ld+json')
+        dict1 = {}
+        json_data = json.loads(s.text)
+        if 'Zostel' in json_data['name']:
+            dict1['name'] = json_data['name']
+        else:
+            dict1['name'] = json_data['name']
+        dict1['url'] = json_data['url']
+        dict1['description'] = json_data['description']
+        dict1['addressCountry'] = json_data['address']['addressCountry']
+        dict1['postalCode'] = json_data['address']['postalCode']
+        dict1['addressRegion'] = json_data['address']['addressRegion']
+        dict1['streetAddress'] = json_data['address']['streetAddress']
+        dict1['addressLocality'] = json_data['address']['addressLocality']
+        dict1['rating'] = json_data['aggregateRating']['ratingValue'] if json_data.get('aggregateRating',
+                                                                                       None) is not None else None
+        dict1['image'] = json_data['image']
+        dict1['priceRange'] = json_data['priceRange'] if json_data.get('priceRange', None) is not None else None
+        dict1['hasMap'] = json_data['hasMap']
+        # dict1[soup.title.string.strip()] = json_data
+        link_list.append(dict1)
+        print(soup.title.string)
         print("***********************************")
-    # lis = soup.find_all('li')
-    # for li in lis:
-    #     if 'Quicksand' in str(li):
-    #         link=li.find('a')
-    #         print(li.text)
-    #         #print(li)
-    #         detail_link=link['href'] if link is not None else None
-    #         print(detail_link)
-    #         detailpage = requests.get(detail_link)
-    #         print(detailpage.status_code)
-    #         dsoup = BeautifulSoup(detailpage.content, 'html.parser')
-    #         address = dsoup.find_all('span', {'class' : 'fl padR10 lh1-2'})
-    #         print(address)
-    #         print("*******************")
+    if i <40:
+        get_page(
+        'https://www.booking.com/searchresults.html?aid=356980&label=gog235jc-1DCAUobEIJbGFsLXF1aWxhSDNYA2hsiAEBmAExuAEXyAEM2AED6AEB-AECiAIBqAIDuALX_JfwBcACAQ&tmpl=searchresults&ac_click_type=b&ac_position=0&class_interval=1&dest_id=-2098033&dest_type=city&from_sf=1&group_adults=2&group_children=0&iata=JAI&label_click=undef&no_rooms=1&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=index&src_elem=sb&srpvid=2eef430f69340083&ss=Jaipur%2C%20Rajasthan%2C%20India&ss_raw=jaipur&ssb=empty&top_ufis=1&rows=25&offset={}'.format(
+            i * 25), i + 1, link_list)
+    print(link_list)
+    df = pd.DataFrame(link_list)
+    df.to_csv("jaipur_hotels.csv")
 
-
-get_page('https://www.booking.com/searchresults.html?aid=356980&label=gog235jc-1DCAUobEIJbGFsLXF1aWxhSDNYA2hsiAEBmAExuAEXyAEM2AED6AEB-AECiAIBqAIDuALX_JfwBcACAQ&sid=48aeb9f5e06e3d609966e6b33c51850a&tmpl=searchresults&ac_click_type=b&ac_position=0&class_interval=1&dest_id=-2106102&dest_type=city&from_sf=1&group_adults=2&group_children=0&iata=DEL&label_click=undef&no_rooms=1&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=landmark&src_elem=sb&srpvid=82a55e9d84da0017&ss=New%20Delhi%2C%20Delhi%20NCR%2C%20India&ss_raw=delhi&ssb=empty&ssne=Red%20Fort&ssne_untouched=Red%20Fort&top_ufis=1&rows=25')
-#headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
-# rest=requests.get('https://www.goibibo.com/hotels/the-vegas-hotel-in-delhi-2452480955417304410/')
-# print(rest.status_code)
+get_page('https://www.booking.com/searchresults.html?aid=356980&label=gog235jc-1DCAUobEIJbGFsLXF1aWxhSDNYA2hsiAEBmAExuAEXyAEM2AED6AEB-AECiAIBqAIDuALX_JfwBcACAQ&tmpl=searchresults&ac_click_type=b&ac_position=0&class_interval=1&dest_id=-2098033&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&iata=JAI&inac=0&index_postcard=0&label_click=undef&no_rooms=1&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=index&src_elem=sb&srpvid=6d413d3f4ea200a5&ss=Jaipur%2C%20Rajasthan%2C%20India&ss_all=0&ss_raw=jaipur&ssb=empty&sshis=0&top_ufis=1&rows=25',1,[])
